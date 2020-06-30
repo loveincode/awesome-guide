@@ -18,3 +18,12 @@ sudo chmod 777 /data
 6、执行命令 `sudo chmod 777 /data`
 7、重启电脑，进入安全模式，执行命令 `csrutil enable` （开启SIP）
 ```
+
+
+debug
+step over
+step into
+force step into
+step out
+
+AppResponse

@@ -29,4 +29,6 @@ mvn jar:jar         只打jar包
 mvn eclipse:clean   清除eclipse的一些系统设置
 mvn eclipse:eclipse 生成eclipse项目
 mvn idea:idea       生成idea项目
+
+出现 pom.part.lock，访问也超时，nexus超时，重启能解决
 ```
