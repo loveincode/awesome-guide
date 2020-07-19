@@ -117,7 +117,7 @@ git push origin :serverfix
 git reflog
 1
 接着回退版本:
-git reset --hard Obfafd
+git reset --hard [commitID]
 紧接着强制推送到远程分支：
 git push -f
 ```

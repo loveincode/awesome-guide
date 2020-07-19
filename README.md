@@ -3,6 +3,11 @@ awesome-guide
 
 
 ### mac
+https://support.apple.com/zh-cn/HT201834
+--断开显示器或投影仪的连接
+在断开显示器或投影仪的连接之前，请将 Mac 置于睡眠状态。
+选取苹果 () 菜单 >“睡眠”，然后断开显示器或投影仪的连接。
+
 --mac 查看硬盘使用量 （需安装 smartctl）
 smartctl -a /dev/disk0  
 
